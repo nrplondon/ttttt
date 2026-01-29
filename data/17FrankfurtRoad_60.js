@@ -1,0 +1,1 @@
+var json_17FrankfurtRoad_60 = {"type":"FeatureCollection","name":"17FrankfurtRoad_60","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1"},"geometry":{"type":"LineString","coordinates":[[-0.0960718,51.4571685],[-0.0951595,51.4565678],[-0.0933567,51.4551653],[-0.091579,51.4547999]]}}]}
